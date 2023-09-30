@@ -1,0 +1,14 @@
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Модуль 1\Zadanie2\Zadanie2\bin\Debug\net7.0\Zadanie2.exe
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Модуль 1\Zadanie2\Zadanie2\bin\Debug\net7.0\Zadanie2.deps.json
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Модуль 1\Zadanie2\Zadanie2\bin\Debug\net7.0\Zadanie2.runtimeconfig.json
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Модуль 1\Zadanie2\Zadanie2\bin\Debug\net7.0\Zadanie2.dll
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Модуль 1\Zadanie2\Zadanie2\bin\Debug\net7.0\Zadanie2.pdb
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Модуль 1\Zadanie2\Zadanie2\obj\Debug\net7.0\Zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Модуль 1\Zadanie2\Zadanie2\obj\Debug\net7.0\Zadanie2.AssemblyInfoInputs.cache
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Модуль 1\Zadanie2\Zadanie2\obj\Debug\net7.0\Zadanie2.AssemblyInfo.cs
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Модуль 1\Zadanie2\Zadanie2\obj\Debug\net7.0\Zadanie2.csproj.CoreCompileInputs.cache
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Модуль 1\Zadanie2\Zadanie2\obj\Debug\net7.0\Zadanie2.dll
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Модуль 1\Zadanie2\Zadanie2\obj\Debug\net7.0\refint\Zadanie2.dll
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Модуль 1\Zadanie2\Zadanie2\obj\Debug\net7.0\Zadanie2.pdb
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Модуль 1\Zadanie2\Zadanie2\obj\Debug\net7.0\Zadanie2.genruntimeconfig.cache
+C:\Users\KDFX Modes\Desktop\ОКВГУ\ПРАКТИКА\Модуль 1\Zadanie2\Zadanie2\obj\Debug\net7.0\ref\Zadanie2.dll
